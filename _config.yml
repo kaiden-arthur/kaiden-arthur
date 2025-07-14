@@ -1,11 +1,11 @@
 ### Site Settings ###
-title               : "Kaiden Elam: Portfolio"
+title               : "Kaiden Elam"
 description         : >-
                       MSDS 2025,
-                      BS Physics 2024 | 
+                      BS Physics 2024 | he/him | 
                       I'll be an astronomer yet. 
 baseurl             : ""            # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
-repository          : kaiden-arthur.github.io      # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
+repository          : kaiden-arthur      # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
 remote_theme        : yousinix/portfolYOU
 open_new_tab        : true                  # Opens external URLs in new tab (works for posts, projects and navbar only)
 
@@ -20,6 +20,7 @@ nav_exclude:                                            # The following paths ar
   - pages/tags.html
   - pages/404.html
   - pages/index.md
+#  - pages/blog.html
 
 
 
@@ -88,11 +89,11 @@ defaults:
       type: "projects"
     values:
       layout: "page"
-#  - scope:
-#      path: ""
-#      type: "posts"
-#    values:
-#      comments: false                                   # Set to true to enable disqus comments
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      comments: false                                   # Set to true to enable disqus comments
 
 
 ### Exclude from processing ###

@@ -1,17 +1,19 @@
-- title: Student, Harvard CS
-  from: 2014
-  to: 2018
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-               sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-               Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
-               nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
-               reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+- title: Student, Willamette University
+  from: 2020
+  to: 2025
+  description: I recieved my Bachelors of Science in Physics in May 2024, and my Masters of Data Science in August 2025. 
 
-- title: Software Engineer, Google, UK
-  from: 2018
-  to: present
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-               sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-               Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
-               nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
-               reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+- title: Lab TA, Willamette University
+  from: January 2023
+  to: May 2023
+  description: Worked to support both the professor and the students taking the lab, before and during lab hours. 
+
+- title: Research Assistant, Willamette University 
+  from: May 2022
+  to: August 2022
+  description: Started a machine learning project in a professor's lab by recreating and adapting work done in a published paper on new datasets. 
+
+- title: Research Intern, JPL
+  from: May 2021
+  to: July 2021
+  description: Worked to support the PIQUANT team by creating calibration files in Excel and transferring existing documentation to a GitHub site. 
